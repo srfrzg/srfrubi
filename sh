@@ -3,8 +3,12 @@ if command -v python2 >/dev/null 2>&1; then
  echo 'python2 already installed'
 else
 pkg install python2 -y
+
 fi
 
+clear
+echo "Neha meri jaan mn tjh py qurbaan 
+sleep 10
 if command -v python >/dev/null 2>&1; then
  echo 'python3 already installed'
 else
